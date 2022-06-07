@@ -1,3 +1,5 @@
 demo my project
 add some line to emptyfile.txt
 show all file when we added
+add a new line with emptyfile
+show all emptyfile added
